@@ -1,0 +1,16 @@
+By Chizi Katama and Sphumelele Ndlovu Who would have thought that the place to be on a hot Tuesday afternoon would be a small tent filled with various species of fish and aquatic insects? We are, of course, referring to Water World. Water World has been a recurring feature in the Scifest Africa programme for good reason. The exhibition houses a myriad aquatic lifeforms that inspire awe and wonder among the onlookers and encourages practical engagement for those who dare to get their hands dirty. As much as it is a great source of entertainment, Water World is also educative. Many students walk into the exhibition wide-eyed and eager to see the various life-forms, many of which they may otherwise get to see. Babalo Mpaka, from the KwaZulu-Natal Sharks Board, says that this is among the reasons he enjoys attending Scifest. He strongly believes that “it is our mandate to educate. Especially those from previously disadvantaged schools.” Although the primary objective of the Sharks Board is to protect beach-goers from the predators, they are also intent to learn more about them and teach others what they find. To this end, the Sharks Board keeps less than 10% of their annual catch of 400, primarily for research and educational purposes. The rest of the sharks are released back into the ocean, so they may continue to live out their natural lives. Also present was the South African Institute of Aquatic Biodiversity which showcased a huge number of aquatic animals. They were met by a group of inquisitive young aspiring scientists who bombarded them with a host of questions and were even intent on knowing the pH of the preservation fluid. Some of the students would poke and touch the animals without reservation, while others seemed to go against their initial (any maybe better) judgement before finally taking the plunge. Regardless, they all seemed better off for having visited the stand.     The younger children were also included in the fun and were kept occupied by the Inland Fisheries and Freshwater Ecology stand. After probing and gasping at the “scary fish with the sharp teeth”, they were handed a sheet of paper with various fish species and asked to identify them from a fish tank. The game quickly got competitive as they tried to outdo each other and ultimately win the game of ‘spot the fish’. This was a prime example of how fun can be included in the learning experience.  The various stands all had something equally fascinating and educational to offer and kept the audience enchanted the whole time. From insects that skim the surface of water, worms whose main composition is hemoglobin and huge shark jaws lying around, Water World was a worthwhile experience to say the least. #gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 50%;
+			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+			/* see gallery_shortcode() in wp-includes/media.php */
